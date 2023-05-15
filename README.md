@@ -1,2 +1,3 @@
 # CALCI
-![Calculator](https://github.com/Kanika-Y/CALCI/assets/92864628/057d9d01-70fc-4487-a200-e05f15833959)
+
+![Calci](https://github.com/Kanika-Y/CALCI/assets/92864628/0f5c0cec-b3b0-41f6-aa7e-4d9710e218b7)
